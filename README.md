@@ -1,4 +1,4 @@
-![1680791463812](https://user-images.githubusercontent.com/28853520/230410089-e6585121-9dc3-4831-a3c5-78c231e6d6dd.jpg)
+
 # Movie Library RDBMS Project
 
 This is a movie library management system built on Node.js and a MySQL database, with a REST API and integration with the TMDB API for movie data.
@@ -27,7 +27,7 @@ This is a movie library management system built on Node.js and a MySQL database,
 # Screenshot
 * Login Page
 
-![login](https://github.com/viveklistenus/movie_library_nodejs/assets/28853520/e29d7c8f-9537-43ec-971a-02cc33820364)
+![login](https://github.com/namankr14/movie-library/assets/118509190/ac0d878a-5c9b-4b39-a97c-699b181da6d3)
 
 * Singup Page
 
@@ -65,7 +65,4 @@ This is a movie library management system built on Node.js and a MySQL database,
 
 
 
-Contributions and feedback are welcome!
-viveklistenus@gmail.com
-vivek.muskan@mca.christuniversity.in
 
