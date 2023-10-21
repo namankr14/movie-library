@@ -30,32 +30,37 @@ This is a movie library management system built on Node.js and a MySQL database,
 ![login](https://github.com/namankr14/movie-library/assets/118509190/ac0d878a-5c9b-4b39-a97c-699b181da6d3)
 
 * Singup Page
+![signup](https://github.com/namankr14/movie-library/assets/118509190/51add78a-37ea-4483-970e-ca4ca1cefae0)
 
-![signup](https://github.com/viveklistenus/movie_library_nodejs/assets/28853520/5261ee52-66e9-420d-914e-97c01ff1bdd0)
+
 
 * Search Movies
+![search](https://github.com/namankr14/movie-library/assets/118509190/57246fe7-14ea-46ce-a8f6-3f45d4298813)
 
-![search](https://github.com/viveklistenus/movie_library_nodejs/assets/28853520/893f3dfb-0214-404a-89d0-26b9ed0c4101)
+
 
 * Movie of the Day
 
 ![motd](https://github.com/viveklistenus/movie_library_nodejs/assets/28853520/0541e73a-c44b-421e-a393-1782cef2c036)
 
 * Movie Page
+![motd](https://github.com/namankr14/movie-library/assets/118509190/56d0cee9-6cb7-4c53-944a-038a2ff0f7f8)
 
-![details ejs](https://github.com/viveklistenus/movie_library_nodejs/assets/28853520/bfd0b4e5-8c98-486d-89e5-f86a5c81fa4f)
+
 
 * Library
+![library](https://github.com/namankr14/movie-library/assets/118509190/8c64990d-c3ad-4f5a-86a8-4f22db7b88a4)
 
-![library](https://github.com/viveklistenus/movie_library_nodejs/assets/28853520/113b93b9-3635-452b-9cfd-d0c4ceabffdd)
 
 * Discussion
+![discussion](https://github.com/namankr14/movie-library/assets/118509190/c89f5b33-1858-444e-a085-c688973e14ec)
 
-![discussion](https://github.com/viveklistenus/movie_library_nodejs/assets/28853520/6e5b2429-5c49-41e6-b416-520122f5a956)
+
 
 * Edit User Profile
 
-![user](https://github.com/viveklistenus/movie_library_nodejs/assets/28853520/a38f30de-df14-4bdc-bfb5-6eedd985a687)
+![user](https://github.com/namankr14/movie-library/assets/118509190/a9f5d2ac-429f-4331-837f-c24174185e05)
+
 
 
 
